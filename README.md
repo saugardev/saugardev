@@ -10,6 +10,6 @@
 
 - 🌱 I’m currently learning **Blockchain and web3.**
 
-- 📫 How to reach me **saul.garces09@gmail.com**
+- 📫 How to reach me **saugardev@proton.me**
 
 - ⚡ Fun fact **I used to compete at videogames, now I just code.**
